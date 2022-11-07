@@ -1,0 +1,12 @@
+Fonctionnement :
+Les déplacements se font avec les touches ZQSD et les flèches. 
+Pour poser une bombe il y a respectivement la touche f et la touche m. 
+Vous pouvez quitter quand vous voulez en appuyant sur t.
+Dès que l'un des deux joueurs n'a plus de vie (ou les deux) le menu du début se relance pour pouvoir choisir un mod et un niveau.
+
+Limites/problèmes/solution :
+Le timer des bombes n'est pas en fonction d'un temps réel mais en fonction des actions des personnages telles que les déplacements ou la pose de bombe.
+Les cartes doivent obligatoirement être de la taille 10x44.
+
+Contributions :
+Nous avons beaucoup travaillé ensemble à la bibliothèque universitaire. Nous avons ainsi contribué à part égale à l'avancement du projet.
